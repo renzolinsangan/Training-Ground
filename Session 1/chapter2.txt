@@ -1,1 +1,1 @@
-This is my chapter 2, but in the other branch.
+This is my chapter 2.
